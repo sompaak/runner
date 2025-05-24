@@ -1,0 +1,5 @@
+Flask
+google-generativeai
+google-cloud-compute
+python-dotenv
+requests # For making HTTP requests to the sompaak/runner
